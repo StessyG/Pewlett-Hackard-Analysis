@@ -24,4 +24,4 @@ The company should revisit their criteria for the program to increase the number
 
 The following table shows the number of employees who will be retiring based on their titles:
 
-![Data/retiring_titles.png] (path/to/Data/retiring_titles.png)
+![retiring_titles.png] (path/to/retiring_titles.png)
