@@ -24,4 +24,4 @@ The company should revisit their criteria for the program to increase the number
 
 The following table shows the number of employees who will be retiring based on their titles:
 
-![retiring_titles.png] (path/to/retiring_titles.png)
+https://github.com/StessyG/Pewlett-Hackard-Analysis/blob/86d13c8c49571a603d7d65cce79e7b84da318048/Data/retiring_titles.png
