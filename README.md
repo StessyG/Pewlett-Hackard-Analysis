@@ -23,4 +23,5 @@ In conclusion, there is an enormous number of employees that will be retiring so
 The company should revisit their criteria for the program to increase the number of eligible employees.
 
 The following table shows the number of employees who will be retiring based on their titles:
-![retiring_titles.png] (path/to/Data/retiring_titles.png)
+
+![Data/retiring_titles.png] (path/to/Data/retiring_titles.png)
