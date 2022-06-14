@@ -6,7 +6,6 @@ The purpose of this analysis is to assist the company to determine the number of
 
 The criterion was based on the birth dates from 1952 to 1955 and hired dates from 1985 to 1988.
 
-Results
 
 # Results:
 
