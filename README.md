@@ -11,10 +11,11 @@ Results
 # Results:
 
 Based on the analysis conducted:
- . There are over 25,000 employees with the titles "Senior Engineer" and "Senior Staff" retiring. 
- . Overall, here is a large number of engineers retiring, and a significant number of them has a "Senior Engineer" title. There are also many Engineers and Assistant Engineers retiring.
- . The analysis demonstrates that over 1,500 retiring employees are eligible for the mentorship program.
- . There are only two managers retiring, and neither of them is eligible for the mentorship program.
+
+ - There are over 25,000 employees with the titles "Senior Engineer" and "Senior Staff" retiring. 
+ - Overall, here is a large number of engineers retiring, and a significant number of them has a "Senior Engineer" title. There are also many Engineers and Assistant Engineers retiring.
+ - The analysis demonstrates that over 1,500 retiring employees are eligible for the mentorship program.
+ - There are only two managers retiring, and neither of them is eligible for the mentorship program.
 
  
 # Summary:
